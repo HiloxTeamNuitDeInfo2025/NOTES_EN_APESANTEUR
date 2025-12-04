@@ -1,0 +1,65 @@
+# MIT License
+
+Copyright (c) 2025 Notes en Apesanteur
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Conditions Supplémentaires
+
+En utilisant ce logiciel, vous vous engagez à :
+
+1. **Respecter la vie privée** : Ne pas ajouter de tracking, analytics ou collecte de données sans consentement explicite
+2. **Maintenir l'esprit minimaliste** : Garder le poids total < 50 KB si possible
+3. **Préserver l'accessibilité** : Maintenir la compatibilité clavier et les contrastes WCAG AA minimum
+4. **Partager vos améliorations** : Contribuer vos modifications à la communauté (optionnel mais encouragé)
+
+Ces conditions ne sont pas légalement contraignantes, mais reflètent l'esprit du projet.
+
+---
+
+## Attribution
+
+Si vous utilisez ce code dans votre projet, une attribution serait appréciée (mais non obligatoire) :
+
+```
+Basé sur "Notes en Apesanteur" - https://github.com/votre-repo
+```
+
+---
+
+## Philosophie
+
+Ce projet est né du défi "Le web qui trace, sans traces", inspiré par le protocole Gemini.
+
+**Valeurs :**
+- ✨ Légèreté : Moins de code, plus d'impact
+- 🎨 Beauté : Le minimalisme peut être élégant
+- 🔒 Vie privée : Vos données vous appartiennent
+- ♿ Accessibilité : Pour tous, sans exception
+- 🌍 Durabilité : Moins de poids = moins de CO₂
+
+Utilisez ce code librement, mais gardez ces valeurs à l'esprit.
+
+---
+
+**Fait avec ❤️ et beaucoup de ⌨️**
+
+*Pour un web plus léger, plus respectueux, plus humain*
