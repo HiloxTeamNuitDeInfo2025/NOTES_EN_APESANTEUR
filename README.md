@@ -98,6 +98,4 @@ Ce projet respecte le protocole **NIRD** :
 
 > _The quieter you become, the more you are able to hear._
 
----
-
-`[ END_OF_FILE ]`
+--
