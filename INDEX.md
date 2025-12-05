@@ -76,18 +76,6 @@ Bienvenue dans la documentation complète du projet **Notes en Apesanteur** ! Ce
 
 ### 🤝 Gestion du Projet
 
-| Fichier                              | Description             | Temps de Lecture |
-| ------------------------------------ | ----------------------- | ---------------- |
-| [`CONTRIBUTING.md`](CONTRIBUTING.md) | Guide de contribution   | 15 min           |
-| [`CHANGELOG.md`](CHANGELOG.md)       | Historique des versions | 5 min            |
-| [`STRUCTURE.md`](STRUCTURE.md)       | Structure du projet     | 10 min           |
-| [`RECAP_FINAL.md`](RECAP_FINAL.md)   | Récapitulatif complet   | 10 min           |
-| [`LICENSE`](LICENSE)                 | Licence MIT             | 2 min            |
-
-### 🌐 Application
-
-| Fichier                    | Description          | Taille       |
-| -------------------------- | -------------------- | ------------ |
 | [`index.html`](index.html) | Application complète | **20.45 KB** |
 
 ---
