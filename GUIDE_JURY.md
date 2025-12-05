@@ -10,8 +10,8 @@ Ce guide vous aidera à naviguer efficacement dans notre documentation pour éva
 
 **Pour une évaluation rapide** :
 
-1. **[PITCH_DECK.md](PITCH_DECK.md)** (3 min)  
-   → Présentation synthétique en 10 slides
+1. **[PRESENTATION_JURY.md](PRESENTATION_JURY.md)** (10 min)  
+   → Dossier complet pour le jury
 
 2. **[index.html](index.html)** (2 min)  
    → Tester l'application (double-clic)
@@ -113,27 +113,11 @@ Ce guide vous aidera à naviguer efficacement dans notre documentation pour éva
 
 ### 🌐 Application (1 fichier)
 
-| Fichier        | Taille   | Description          |
-| -------------- | -------- | -------------------- |
-| **index.html** | 14.58 KB | Application complète |
-
-### 📊 Documentation Jury (2 fichiers)
-
-| Fichier                  | Taille | Description                  |
-| ------------------------ | ------ | ---------------------------- |
-| **PRESENTATION_JURY.md** | ~25 KB | Dossier complet pour le jury |
-| **PITCH_DECK.md**        | ~8 KB  | Présentation 5 minutes       |
-
-### 📚 Documentation Principale (6 fichiers)
-
-| Fichier           | Taille | Description               |
-| ----------------- | ------ | ------------------------- |
-| **README.md**     | ~18 KB | Documentation utilisateur |
-| **CONCEPT.md**    | ~11 KB | Philosophie et vision     |
-| **FEATURES.md**   | ~12 KB | Liste des fonctionnalités |
-| **TECHNICAL.md**  | ~18 KB | Architecture technique    |
-| **CONFORMITE.md** | ~13 KB | Conformité NIRD           |
-| **QUICKSTART.md** | ~4 KB  | Guide de démarrage        |
+| **CONCEPT.md** | ~11 KB | Philosophie et vision |
+| **FEATURES.md** | ~12 KB | Liste des fonctionnalités |
+| **TECHNICAL.md** | ~18 KB | Architecture technique |
+| **CONFORMITE.md** | ~13 KB | Conformité NIRD |
+| **QUICKSTART.md** | ~4 KB | Guide de démarrage |
 
 ### 🔧 Documentation Projet (6 fichiers)
 
